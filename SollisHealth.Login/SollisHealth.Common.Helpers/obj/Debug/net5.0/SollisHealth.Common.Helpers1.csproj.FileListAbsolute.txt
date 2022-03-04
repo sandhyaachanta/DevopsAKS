@@ -1,0 +1,5 @@
+C:\Job\SollisHealth.Login\SollisHealth.Common.Helpers\obj\Debug\net5.0\SollisHealth.Common.Helpers1.csproj.AssemblyReference.cache
+C:\Job\SollisHealth.Login\SollisHealth.Common.Helpers\obj\Debug\net5.0\SollisHealth.Common.Helpers1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Job\SollisHealth.Login\SollisHealth.Common.Helpers\obj\Debug\net5.0\SollisHealth.Common.Helpers1.AssemblyInfoInputs.cache
+C:\Job\SollisHealth.Login\SollisHealth.Common.Helpers\obj\Debug\net5.0\SollisHealth.Common.Helpers1.AssemblyInfo.cs
+C:\Job\SollisHealth.Login\SollisHealth.Common.Helpers\obj\Debug\net5.0\SollisHealth.Common.Helpers1.csproj.CoreCompileInputs.cache
